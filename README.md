@@ -7,7 +7,15 @@
           In the past I also developed for JAVA FOR ANDROID & C #
           Although I also developed with SQL databases, I admit that I like the NO-SQL database much more
           I worked with FIREBASE & AWS and more
-- 💞️ I’m looking to collaborate on ...
+- 💞️ And of course I developed a lot of sites and systems:
+          Attached are some of them:
+          https://motto.co.il/ (this is my site)
+          https://dugoly.com/
+          https://blogy.click/
+          https://getcredit.link/
+          https://directdone.com/
+          And more
+          
 - 📫 How to reach me? 
         my email is omer@motto.co.il
 
