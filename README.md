@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omershiran
 - 👀 Recently I got interested in the development of digital currencies:
-          blockchain and distributed networksת
+          blockchain and distributed networks,
           and the subject fascinates me
 - 🌱 A little about me:
           I'm a developer at NODE-JS & REACT & PYTHON & MORE
